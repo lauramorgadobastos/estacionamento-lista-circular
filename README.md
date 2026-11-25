@@ -55,7 +55,7 @@ O programa conta com um menu interativo contendo as seguintes opções:
 O código está organizado seguindo boas práticas de separação de responsabilidades dentro da pasta `src`:
 
 ```text
-seu-repositorio/
+estacionamento-lista-circular/
 │
 ├── src/
 │   ├── Models/
